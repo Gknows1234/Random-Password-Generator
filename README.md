@@ -1,6 +1,6 @@
 # Password Tools
 
-Simple Python scripts for password security management.
+Simple Python scripts for password security generator.
 
 ## What's Included
 
