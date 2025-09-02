@@ -4,7 +4,6 @@ Simple Python scripts for password security management.
 
 ## What's Included
 
-- **Password Strength Checker** - Evaluates how strong your password is
 - **Password Generator** - Creates random secure passwords
 
 ## Requirements
