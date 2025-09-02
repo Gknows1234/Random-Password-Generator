@@ -43,6 +43,4 @@ Your password: K9#mP2$vX8nQ
 
 ## Notes
 
-The strength checker assumes a brute force attack rate of 1 billion attempts per second. Real-world crack times vary based on the attack method and hardware used.
-
 Generated passwords include lowercase letters, uppercase letters, digits, and special characters for maximum security.
